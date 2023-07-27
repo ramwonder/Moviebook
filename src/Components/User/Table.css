@@ -1,0 +1,57 @@
+.eTable11{
+
+    width: 1100px;
+    margin-top: 100px;
+    margin-left: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+ #search1{
+   position: fixed;
+   margin-top: 100px;
+   margin-left: 600px;
+   
+ }
+ .buttupdate{
+    margin-left: 200px;
+    margin-top: 100px;
+  
+ }
+ .movieseat{
+   margin-top: 170px;
+   margin-left: 600px;
+   
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+ .ra{
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19),
+ }
+ #Butt{
+    background-color: white;
+    color: black;
+ }
+ .cc{
+    background-color: aliceblue;
+ }
+ .Button{
+    background-image: linear-gradient(to top, #ff0844 20%, #ffb199 100%);
+    border: #ff0844;
+  
+  }
+
+  .Button21 {
+
+   background-image: linear-gradient(to top, #ff0844 20%, #ffb199 100%);
+   border: #ff0844;
+
+  
+}
+
+.Button22 {
+position: fixed;
+   background-image: linear-gradient(to top, #ff0844 20%, #ffb199 100%);
+   border: #ff0844;
+   margin-top: 100px;
+   margin-left: 200px;
+
+  
+}

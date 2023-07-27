@@ -1,0 +1,44 @@
+.form1{
+    margin-top: 150px;
+    margin-left: 200px;
+   
+}
+.card1{
+  margin-top: 120px;
+  margin-left: 500px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+.card2{
+  margin-top: 20px;
+  margin-left: 500px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+.Button{
+  background-image: linear-gradient(to top, #ff0844 20%, #ffb199 100%);
+  border: #ff0844;
+
+}
+.img2{
+  margin-top: -400px;
+  margin-left: 6px;
+
+}
+#ss{
+  margin-top: 70px;
+  margin-left: 550px;
+}
+#all{
+  margin-top: 60px;
+  margin-left: 450px;
+
+}
+#ch
+{
+  position: fixed;
+  margin-left: 670px;
+ 
+
+
+}

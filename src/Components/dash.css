@@ -1,0 +1,20 @@
+.card2{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+.aa{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.but{
+    margin-left: 50px;
+    background-image: linear-gradient(to top, #ff0844 20%, #ffb199 100%);
+    border: #ff0844;
+}
+.deg{
+    margin-top: -485px;
+}
+.im{
+    width: 100px;
+}
